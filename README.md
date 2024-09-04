@@ -1,2 +1,2 @@
 # demo-gha-page
-Deom with Github Actions on Pages
+Demo static page with GitHub Actions on Pages
